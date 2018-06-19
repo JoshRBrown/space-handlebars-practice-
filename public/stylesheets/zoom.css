@@ -1,0 +1,20 @@
+body{
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+}
+img{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+    margin-right: auto;
+}
+a{
+    display: block;
+    width: 100%;
+    text-align: center;
+}

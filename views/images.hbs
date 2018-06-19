@@ -1,6 +1,7 @@
 {{#each points}}
-
+<div class="container">
 <h3>{{this.title}}</h3>
-<img src={{this.pic}}>
+<a href='/images/{{this.title}}'><img src={{this.pic}}></a>
 <a href='{{../home}}'>Go back to the homepage</a>
+</div>
 {{/each}}
